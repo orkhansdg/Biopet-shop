@@ -1,0 +1,58 @@
+[
+    {
+        "id": 5,
+        "img": "./trendGoods/Cat Food.png",
+        "title": "Pişiklər üçün quru və nəm lasos",
+        "price": 45,
+        "dataName": "enCoxSatilan"
+    },
+    {
+        "id": 6,
+        "img": "./trendGoods/Natures Nuts.png",
+        "title": "Quşlar üçün çərəz",
+        "price": 9.90,
+        "dataName": "yeniMehsul"
+    },
+    {
+        "id": 7,
+        "img": "./trendGoods/image 5.png",
+        "title": "Balıqlar üçün quru toyuq",
+        "price": 19,
+        "dataName": "enCoxSatilan"
+    },
+    {
+        "id": 8,
+        "img": "./trendGoods/Dog Friendly.png",
+        "title": "İtlər üçün sümüklər",
+        "price": 33,
+        "dataName": "yeniMehsul"
+    },
+    {
+        "id": 9,
+        "img": "./trendGoods/Premium Dog Food.png",
+        "title": "İtlər üçün quru yemək və ət",
+        "price": 40,
+        "dataName": "secilenMehsul"
+    },
+    {
+        "id": 10,
+        "img": "./trendGoods/Wagg Sets.png",
+        "title": "Pişiklər üçün çubuq",
+        "price": 13.9,
+        "dataName": "yeniMehsul"
+    },
+    {
+        "id": 11,
+        "img": "./trendGoods/Kasper Faunafood.png",
+        "title": "Dovşanlar üçün dəri ət",
+        "price": 10,
+        "dataName": "enCoxSatilan"
+    },
+    {
+        "id": 12,
+        "img": "./trendGoods/image 4.png",
+        "title": "Balıqlar üçün quru çörək",
+        "price": 25,
+        "dataName": "secilenMehsul"
+    }
+]

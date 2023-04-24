@@ -1,0 +1,122 @@
+[
+    {
+        "id": 13,
+        "img": "../items_img/image 11.png",
+        "title": "Canina Biotin Forte, itlər üçün, dəri & tüklərə dəstək (Tablet)",
+        "price": "0.80",
+        "discount": "-20%",
+        "oldPrice": "1.00"
+    },
+    {
+        "id": 14,
+        "img": "../items_img/image 12.png",
+        "title": "Canina Petvital Kalsium, itlər üçün, 1000 q/ 500 tab",
+        "price": "0.50",
+        "discount": "-30%",
+        "oldPrice": "0.81"
+    },
+    {
+        "id": 15,
+        "img": "../items_img/image 13.png",
+        "title": "Canina Petvital Multivitamin kompleksi, pişiklər & itlər üçün",
+        "price": "0.65",
+        "discount": "-19%",
+        "oldPrice": "0.80"
+    },
+    {
+        "id": 16,
+        "img": "../items_img/image 17.png",
+        "title": "Canina Chondro Maxi oynaqlar üçün vitamin, 25 kq",
+        "price": "0.46",
+        "discount": "",
+        "oldPrice": ""
+    },
+    {
+        "id": 17,
+        "img": "../items_img/image 18.png",
+        "title": "Frontline Combo it üçün gənə & birəyə qarşı damcı (10-20 kq)",
+        "price": "22.44",
+        "discount": "-20%",
+        "oldPrice": "28.00"
+    },
+    {
+        "id": 18,
+        "img": "../items_img/image 19.png",
+        "title": "Frontline Combo it üçün gənə & birəyə qarşı damcı (20-40 kq)",
+        "price": "21.30",
+        "discount": "-20%",
+        "oldPrice": "26.00"
+    },
+    {
+        "id": 19,
+        "img": "../items_img/image 20.png",
+        "title": "Frontline Combo it üçün gənə & birəyə qarşı damcı (40-60 kq)",
+        "price": "24.00",
+        "discount": "-20%",
+        "oldPrice": "30.00"
+    },
+    {
+        "id": 20,
+        "img": "../items_img/image 23.png",
+        "title": "Nexgard Spectra it üçün birə & gənəyə qarşı tablet(2-3,5 kq)  ",
+        "price": "20.00",
+        "discount": "-20%",
+        "oldPrice": "25.00"
+    },
+    {
+        "id": 21,
+        "img": "../items_img/image 24.png",
+        "title": "Beaphar Fiprotec birə & gənəyə qarşı damcı itlər üçün 67 ml",
+        "price": "21.30",
+        "discount": "-20%",
+        "oldPrice": "26.60"
+    },
+    {
+        "id": 22,
+        "img": "../items_img/image 28.png",
+        "title": "Reks  & Musya it & pişik üçün insekto-Akarisid Sprey,150 ml",
+        "price": "6.40",
+        "discount": "-20%",
+        "oldPrice": "8.00"
+    },
+    {
+        "id": 23,
+        "img": "../items_img/image 29.png",
+        "title": "ZooLekar kiçik it & bala it üçün Helmintlərə qarşı suspenziya, 10 ml",
+        "price": "5.60",
+        "discount": "-20%",
+        "oldPrice": "7.00"
+    },
+    {
+        "id": 24,
+        "img": "../items_img/image 33.png",
+        "title": "Royal Canin Gastrointestinal Dog Adult baytarlıq pehrizi itlər üçün (quru yem)",
+        "price": "17.50",
+        "discount": "",
+        "oldPrice": ""
+    },
+    {
+        "id": 25,
+        "img": "../items_img/image 34.png",
+        "title": "Royal Canin Gastrointestinal Dog Adult baytarlıq pehrizi itlər üçün (quru yem)",
+        "price": "19.00",
+        "discount": "",
+        "oldPrice": ""
+    },
+    {
+        "id": 26,
+        "img": "../items_img/image 38.png",
+        "title": "Collar Baytarlıq yaxası yüngül eylon",
+        "price": "19.00",
+        "discount": "",
+        "oldPrice": ""
+    },
+    {
+        "id": 27,
+        "img": "../items_img/image 46.png",
+        "title": "Bayer Foresto it üçün gənə & birəyə qarşı xalta, 70 sm",
+        "price": "80.00",
+        "discount": "",
+        "oldPrice": ""
+    }
+]

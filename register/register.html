@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <a href="http://127.0.0.1:5500/Biopet%20shop/index.html"><img src="../images/249d0859-6e00-4bd6-bae3-7f50f2a73db7 1.png" alt="logo"></a>
+        </div>
+        <div class="container_register">
+            <div class="register_box">
+                <form onsubmit="registerSubmit(event)">
+                    <h2>Register</h2>
+                    <div class="input_group">
+                        <input class="register_name" type="text" required>
+                        <label for="">Username</label>
+                    </div>
+                    <div class="input_group">
+                        <input class="register_email" type="email" required>
+                        <label for="">Email</label>
+                    </div>
+                    <div class="input_group">
+                        <input class="register_psw" type="password" required>
+                        <label for="">Password</label>
+                    </div>
+                    <div class="input_group">
+                        <input class="register_confirm_psw" type="password" required>
+                        <label for="">Confirm Password</label>
+                    </div>
+                    <p class="register_err"></p>
+                    <div class="remember">
+                        <label for=""><input type="checkbox"> I agree to the terms & conditions</label>
+                    </div>
+                    <button class="btn">Register</button>
+                    <div class="register">
+                        <p>Already have an account? <a href="#" class="go_login">Login</a></p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="../data.js"></script>
+    <script src="register.js"></script>
+</body>
+</html>
